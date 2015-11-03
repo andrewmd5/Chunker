@@ -1,6 +1,8 @@
 # Chunker
 Small Java program to split large mp3s into smaller mp3s based on configurations
 
+Requires FFMPEG 
+
 
 Example time.txt
 
