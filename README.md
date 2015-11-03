@@ -1,6 +1,8 @@
 # Chunker
 Small Java program to split large mp3s into smaller mp3s based on configurations
 
+Useful if you download a large collage off youtube and want individual files. 
+
 Requires FFMPEG 
 
 
