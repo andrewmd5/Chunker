@@ -8,7 +8,7 @@ Requires FFMPEG
 
 Example time.txt
 
-Fields are track number, total time in hours, minutes, seconds, title
+Fields are track number, postion the song starts at in the large mp3 as hours:minutes:seconds, title
 ```
 01|00:00:00|No More Entails
 02|00:01:45|Excels
